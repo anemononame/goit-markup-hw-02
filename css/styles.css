@@ -32,6 +32,17 @@ header {
 .logo-studio {
     color: #2e2f42;
 }
+.nav-menu {
+    color: #2e2f42;
+}
+.nav-menu:hover, .nav-menu:focus {
+    color: #404bbf;
+}
+.contacts {
+    font-weight: 400;
+        color: #434455;
+        font-style: normal;
+}
 a {
     text-decoration: none;
 }
@@ -42,11 +53,6 @@ nav {
 }
 header a:hover, header a:focus {
     color: red;
-}
-address {
-    font-weight: 400;
-    color: #434455;
-    font-style: normal;
 }
 /* Order section */
 .order-sec {
