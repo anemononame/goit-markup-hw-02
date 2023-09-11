@@ -93,9 +93,6 @@ nav {
 .benefits-title {
     font-weight: 500;
 }
-.benefits-p {
-    
-}
 /* Our team */
 .team {
     background-color: #F4F4FD;
@@ -118,6 +115,13 @@ nav {
     font-weight: 500;
     line-height: 120%;
     letter-spacing: 0.4px;
+}
+.portfolio-title {
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+.portfolio-menu {
+    background-color: #FFFFFF;
 }
 .portfolio p {
     line-height: 150%;
