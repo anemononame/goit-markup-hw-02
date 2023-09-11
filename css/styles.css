@@ -33,6 +33,7 @@ h2 {
 }
 .nav-menu {
     color: #2e2f42;
+    line-height: 1.5;
 }
 .nav-menu:hover, .nav-menu:focus {
     color: #404bbf;
