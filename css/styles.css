@@ -51,8 +51,13 @@ nav {
     color: #2E2F42;
     letter-spacing: 0.02em;
 }
-header a:hover, header a:focus {
-    color: red;
+.contact-menu {
+    font-weight: 500;
+        color: #434455;
+        letter-spacing: 0.02em;
+}
+.contact-menu:hover, .contact-menu:focus {
+    color: #404bbf;
 }
 /* Order section */
 .order-sec {
