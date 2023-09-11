@@ -52,6 +52,7 @@ nav {
     font-weight: 500;
         color: #434455;
         letter-spacing: 0.02em;
+        line-height: 1.5;
 }
 .contacts-menu:hover, .contacts-menu:focus {
     color: #404bbf;
@@ -65,6 +66,7 @@ nav {
     font-size: 56px;
     line-height: 107.143%;
     letter-spacing: 1.12px;
+    text-align: center;
 }
 .order-button {
     color: #FFF;
@@ -73,6 +75,9 @@ nav {
     line-height: 150%;
     letter-spacing: 0.64px;
     cursor: pointer;
+}
+.order-button:hover, .order-button:focus {
+    background-color: #404BBF;
 }
 /*benefits*/
 .benefits h3 {
@@ -84,6 +89,12 @@ nav {
 .benefits p {
     line-height: 150%;
     letter-spacing: 0.32px;
+}
+.benefits-title {
+    font-weight: 500;
+}
+.benefits-p {
+    
 }
 /* Our team */
 .team {
