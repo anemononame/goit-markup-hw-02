@@ -131,11 +131,14 @@ nav {
 /*footer*/
 footer {
     background-color: #2E2F42;
-    color: #FFF;
 }
 footer p {
     line-height: 150%;
     letter-spacing: 0.32px;
 }
-
-
+.logo-studio-foot {
+    color: #f4f4fd;
+}
+.p-foot {
+    color: #f4f4fd;
+}
